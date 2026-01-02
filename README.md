@@ -3,6 +3,10 @@ This project demonstrates dose–exposure modelling using linear regression
 to evaluate the relationship between infusion rate and steady-state
 piperacillin concentration.
 
+## Data Source
+Data were obtained from a publicly available teaching dataset and loaded
+directly from a GitHub repository to ensure reproducibility.
+
 ## Objectives
 - Visualise infusion rate vs steady-state concentration
 - Assess correlation between dose rate and exposure
